@@ -2,7 +2,7 @@
 
 ### Large image
 
-![selfie](mugshot.JPG)
+![selfie](smallselfie.jpeg)
 
 
 *   I was born in Queens, New York, and I moved around the NYC area for most of my childhood. 
