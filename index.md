@@ -14,7 +14,8 @@
 *   I love dogs, and have had the honor of raising a few. I definitely plan to continue fostering and eventually plan to adopt a dog again!!! I like all dogs but big dogs are my favorite. 
 *   Also I am recently really into buying flowers, even though I know almost nothing about flowers :)
 *   I watch Twitch.tv everyday, Lirik is my favorite streamer!
-*   
+*   I think more beverages should be spicy.
+*   I am a very social person and love to chat, definitely feel free to contact me on any of the platforms we have even just to chat! 
 
 
 
