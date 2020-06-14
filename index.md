@@ -45,21 +45,7 @@ I wasn't really sure what I wanted to include here, so here is a list of 10 semi
 1.  Item three
 1.  Item four
 
-### And a nested list:
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
