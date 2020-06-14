@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # Luna's Collage
 I wasn't really sure what I wanted to include here, so here is a list of 10 semi-random things about me! 
